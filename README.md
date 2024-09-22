@@ -1,0 +1,2 @@
+# printname
+prints out aname
